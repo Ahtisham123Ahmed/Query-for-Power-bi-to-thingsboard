@@ -1,0 +1,1 @@
+# Query-for-Power-bi-to-thingsboard
